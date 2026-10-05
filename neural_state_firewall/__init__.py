@@ -1,4 +1,4 @@
-"""Internal activation observer and deterministic response-release gate."""
+"""Host-controlled model read-permission boundary."""
 
 from .runtime import Firewall, Step
 
